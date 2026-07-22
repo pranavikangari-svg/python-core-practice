@@ -1,29 +1,15 @@
 # python-core-practice
 Python fundamentals from beginner to advanced with daily practice programs, notes, and projects.
-# Day 1 - Variables and Data Types
+# Python Core Practice
 
-## Topics Covered
+This repository contains my daily Python learning journey.
 
-- Python Installation
+## Progress
+
+✅ Day 1
 - Variables
-- int
-- float
-- str
-- bool
+- Data Types
 - type()
+- Practice Programs
 
-## Key Points
-
-- Variables store values.
-- Python automatically detects data types.
-- type() tells the datatype.
-- Strings use quotation marks.
-- Boolean values are True or False.
-
-## Programs Practiced
-
-- Store Name
-- Store Age
-- Add Two Numbers
-- Swap Two Numbers
-- Print Different Data Types
+More updates coming daily.
